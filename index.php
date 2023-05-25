@@ -65,11 +65,11 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <div class="col-md-9 p0">
                             <ul class="nav navbar-nav main_nav">
-                              <li><a href="#">Laptops</a></li>
-                              <li><a href="#">Drones</a></li>
-                                <li><a href="#">Gadgets</a></li>
-                                <li><a href="#">Phones</a></li>
-                                <li><a href="#">VR</a></li>
+                              <li><a href="#">Bagh prints</a></li>
+                              <li><a href="#">Banner Making</a></li>
+                                <li><a href="#">Batik</a></li>
+                                <li><a href="#">Carpet</a></li>
+                                <li><a href="#">Cross-stitch</a></li>
                                 <li><a href="#">Contact us</a></li>
                             </ul>
                         </div>
@@ -89,9 +89,9 @@
         <section class="slider_area row m0">
             <div class="slider_inner">
                 <div class="camera_caption">
-                    <h2 class="wow fadeInUp animated">Make Your Shopping Easy</h2>
+                    <h4 class="wow fadeInUp animated">Make Your Shopping Easy</h4>
                     <h5 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h5>
-                    <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Show Now!</a>
+                    <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Buy Now!</a>
                 </div>
             </div>
         </section>
@@ -99,7 +99,7 @@
 
         <section class="best_business_area row">
             <div class="check_tittle wow fadeInUp" data-wow-delay="0.7s" id="product-list">
-                <h2>Product List</h2>
+                <h2>Product Handicraft List</h2>
             </div>
             <div class="row it_works">
               <?php
