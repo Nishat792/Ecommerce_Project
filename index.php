@@ -89,7 +89,7 @@
         <section class="slider_area row m0">
             <div class="slider_inner">
                 <div class="camera_caption">
-                    <h4 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h4>
+                    <h2 class="wow fadeInUp animated" data-wow-delay="0.3s">Make Your Shopping Easy</h2>
                     <h5 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h5>
                     <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Buy Now!</a>
                 </div>
@@ -99,7 +99,7 @@
 
         <section class="best_business_area row">
             <div class="check_tittle wow fadeInUp" data-wow-delay="0.7s" id="product-list">
-                <h2>Product Handicraft List</h2>
+                <h2> Handicraft Product List</h2>
             </div>
             <div class="row it_works">
               <?php
