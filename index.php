@@ -98,7 +98,7 @@
 
         <section class="best_business_area row">
             <div class="check_tittle wow fadeInUp" data-wow-delay="0.7s" id="product-list">
-                <h2> Handicraft List</h2>
+                <h2> Handicraft product List</h2>
             </div>
             <div class="row it_works">
               <?php
